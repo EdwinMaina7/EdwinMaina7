@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**EdwinMaina7/EdwinMaina7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome! 🚀
 
-Here are some ideas to get you started:
+👋 Hi, I’m **Edwin Maina**.  
+👀 I'm a passionate **Data Analyst & Software Engineering Enthusiast** with a strong interest in **data-driven solutions and scalable applications**.  
+🌱 I'm currently working with **Python, MySQL, and VS Javascript**.  
+👯 I’m looking forward to collaborating on **Data Science & Web Development Projects**.  
+💬 Ask me about **Python, SQL, and Data Analytics**.  
+📫 How to reach me: **mainaedwin716@gmail.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+- **Programming Languages:** Python, SQL, JavaScript  
+- **Web Technologies:** HTML5, CSS3, React  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Platforms:** VS Code, Git, GitHub, Jupyter Notebook, Docker  
+- **Operating Systems:** Linux, Windows  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwin-maina&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-maina&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+
+- **[https://www.linkedin.com/in/edwin-maina-a58661213/](#)**  
+    
+
