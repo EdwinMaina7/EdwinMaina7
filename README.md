@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack  
 
-- **Programming Languages:** Python, SQL, JavaScript  
+- **Programming Languages:** Python, SQL, JavaScript, C, C++  
 - **Web Technologies:** HTML5, CSS3, React  
 - **Databases:** MySQL, MongoDB  
 - **Tools & Platforms:** VS Code, Git, GitHub, Jupyter Notebook, Docker  
