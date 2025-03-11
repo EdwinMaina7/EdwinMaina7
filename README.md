@@ -21,7 +21,7 @@
 ---
 
 ## 📊 GitHub Stats  
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdwinMaina7&theme=dark)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdwinMaina7&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinMaina7&layout=compact&theme=radical)  
 
